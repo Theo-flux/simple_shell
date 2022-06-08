@@ -83,7 +83,6 @@ hsh main.c shell.c test_ls_2
 $
 ```
 ## Authors
-OOA
 Omolade Adeloye [GitHub](https://github.com/Ladeadeloye)
 
 Theophilus Ifeoluwa [GitHub](https://github.com/Theo-flux)
